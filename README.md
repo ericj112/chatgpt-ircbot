@@ -15,4 +15,6 @@ time
 
 tested with python3.7
 
+to log use "python3.7 -u /path/to/chatgpt-ircbot.py | tee -a /path/to/log"
+
 Disclaimer: could give a longer than 3 line response since it parses the line for irc length later
