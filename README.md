@@ -2,11 +2,15 @@
 ChatGPT3 irc bot, if response longer than 3 lines uploads to termbin.com and gives the link back
 
 Dependencies
-import irc.bot
-import irc.strings
-import openai
-import subprocess
-import time
+irc.bot
+
+irc.strings
+
+openai
+
+subprocess
+
+time
 
 tested with python3.7
 
